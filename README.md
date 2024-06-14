@@ -1,9 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/tYQRXUck)
-# {Apellido, Nombres}
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/DLC4WqXm)
 
-```
-# Completar con dirección donde despĺegaron en Render.com
-https://{miproyecto}.onrender.com
-```
+# Chura Flores, Belén
 
-Template para TP DDS 2024 - Entrega 1
+https://two024-tp-entrega-2-belenchura.onrender.com
+
+TP DDS 2024 - Entrega 2
+
