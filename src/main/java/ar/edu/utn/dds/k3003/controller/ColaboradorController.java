@@ -92,8 +92,4 @@ public class ColaboradorController {
       context.status(HttpStatus.BAD_REQUEST);
     }
   }
-  public void cleanUp(Context ctx) {
-    fachada.getColaboradorRepository().cleanFormasColaborar();
-    ctx.status(HttpStatus.NO_CONTENT);
-  }
 }
