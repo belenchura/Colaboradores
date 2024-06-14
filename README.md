@@ -2,7 +2,7 @@
 
 # Chura Flores, Belén
 
-https://two024-tp-entrega-2-belenchura.onrender.com
+https://two024-tp-entrega-3-belenchura.onrender.com
 
-TP DDS 2024 - Entrega 2
+TP DDS 2024 - Entrega 3
 
