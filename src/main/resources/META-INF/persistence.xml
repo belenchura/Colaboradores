@@ -8,10 +8,10 @@ http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd" version="2.2">
 
         <properties>
             <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
-            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://dpg-cpltaiij1k6c739r0p2g-a.oregon-postgres.render.com/bd_colaboradores"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://bd_colaboradores_user:wlXGbnjV46E7yHI8rdhWhUoorvGEUen0@dpg-crtnofdds78s73evvsg0-a/bd_colaboradores_f5t3"/>
 
             <property name="javax.persistence.jdbc.user" value="bd_colaboradores_user"/>
-            <property name="javax.persistence.jdbc.password" value="EUM5RPkfZmEd6d6mG8UZOM1Irmmy1Fvx" />
+            <property name="javax.persistence.jdbc.password" value="wlXGbnjV46E7yHI8rdhWhUoorvGEUen0" />
 
 
             <!-- Creación de tablas -->
