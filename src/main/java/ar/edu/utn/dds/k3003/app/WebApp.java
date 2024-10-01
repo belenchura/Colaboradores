@@ -84,6 +84,6 @@ public class WebApp {
         configOverrides.put(key, value);
       }
     }
-    return Persistence.createEntityManagerFactory("bd_colaboradores", configOverrides);
+    return Persistence.createEntityManagerFactory("bd_colaboradores_f5t3", configOverrides);
   }
 }
