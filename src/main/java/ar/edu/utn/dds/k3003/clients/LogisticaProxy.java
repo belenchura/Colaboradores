@@ -52,7 +52,7 @@ public class LogisticaProxy implements FachadaLogistica {
   @SneakyThrows
   @Override
   public List<TrasladoDTO> trasladosDeColaborador(Long colaboradorId, Integer mes, Integer anio) {
-    Response<List<TrasladoDTO>> execute = service.get(colaboradorId).execute();
+    Response<List<TrasladoDTO>> execute = service.get(colaboradorId, mes, anio).execute();
 
     if (execute.isSuccessful()) {
       return execute.body();
